@@ -11,23 +11,28 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Yuri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Yuri-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Yuri-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Yuri-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="Yuri-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Yuri-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Yuri-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/laravel.svg">
-  <img align="center" alt="Yuri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Yuri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+    ## Minhas habilidades 🚀
 
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Yuri-CSS" height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-    <img align="center" alt="Yuri-CSS" height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  </div>
-  
-  ##
+    ### Backend
+    ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+    ![Javascript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript)
+    ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-323330?style=for-the-badge&logo=typescript)
+    ![PHP](https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php)
+    ![Laravel](https://img.shields.io/badge/Laravel-323330?style=for-the-badge&logo=laravel)
+
+    ### Frontend
+    ![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+    ![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+    ![ReactJS](https://img.shields.io/badge/REACT-blue?style=for-the-badge&logo=react&logoColor=white)
+    ![VueJS](https://img.shields.io/badge/Vue.js-323330?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
+    ### Databases
+    ![MySQL](https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql)
+    ![MongoDB](https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb)
+
+    ### Outras ferramentas
+    ![Docker](https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker) ![Postman](https://img.shields.io/badge/Postman-323330?style=for-the-badge&logo=postman) ![Linux](https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=linux)  ![Git](https://img.shields.io/badge/Git-323330?style=for-the-badge&logo=git)
+</div>
  
 <div> 
   <a href="https://instagram.com/yuri_spirandeli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
