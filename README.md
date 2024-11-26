@@ -13,18 +13,18 @@
 <div style="display: inline_block"><br>
 - <b>Backend<b>
 <br>
-  <img align="center" alt="Yuri-Js" height="30" width="40" src="https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript">
-  <img align="center" alt="Yuri-Ts" height="30" width="40" src="https://img.shields.io/badge/TYPESCRIPT-323330?style=for-the-badge&logo=typescript">
-  <img align="center" alt="Yuri-Node" height="30" width="40" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="Yuri-PHP" height="30" width="40" src="https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php">
-  <img align="center" alt="Yuri-Laravel" height="30" width="40" src="https://img.shields.io/badge/Laravel-323330?style=for-the-badge&logo=laravel">
+  <img align="center" alt="Yuri-Js" height="30" src="https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript">
+  <img align="center" alt="Yuri-Ts" height="30" src="https://img.shields.io/badge/TYPESCRIPT-323330?style=for-the-badge&logo=typescript">
+  <img align="center" alt="Yuri-Node" height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="Yuri-PHP" height="30" src="https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php">
+  <img align="center" alt="Yuri-Laravel" height="30" src="https://img.shields.io/badge/Laravel-323330?style=for-the-badge&logo=laravel">
   <hr>
 - <b>Frontend</b>
 <br>
-  <img align="center" alt="Yuri-Vue" height="30" width="40" src="https://img.shields.io/badge/Vue.js-323330?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-  <img align="center" alt="Yuri-React" height="30" width="40" src="https://img.shields.io/badge/REACT-blue?style=for-the-badge&logo=react&logoColor=white">
-  <img align="center" alt="Yuri-HTML" height="30" width="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Yuri-CSS" height="30" width="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Yuri-Vue" height="30" src="https://img.shields.io/badge/Vue.js-323330?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+  <img align="center" alt="Yuri-React" height="30" src="https://img.shields.io/badge/REACT-blue?style=for-the-badge&logo=react&logoColor=white">
+  <img align="center" alt="Yuri-HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Yuri-CSS" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <hr>
 - <b>Databases</b>
 <br>
