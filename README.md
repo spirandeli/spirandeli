@@ -28,8 +28,8 @@
   <hr>
 - <b>Databases</b>
 <br>
-  <img align="center" alt="Yuri-MySql" height="30" width="60" src="https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql">
-  <img align="center" alt="Yuri-MongoDB" height="30" width="60" src="https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb">
+  <img align="center" alt="Yuri-MySql" height="30" src="https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql">
+  <img align="center" alt="Yuri-MongoDB" height="30" src="https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb">
   <hr>
 - <b>Outras Ferramentas</b>
   <br>
