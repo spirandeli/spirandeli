@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como desenvolvedor FullStack PHP + JavaScript
 - 🌱 Estudando Aplicacoes Mobile
-- 📫 Contate-me no email: gabrielopfaria@gmail.com
+- 📫 Contate-me no email: spirandelidev@gmail.com
 
 <div align="left">
   <a href="https://github.com/spirandeli">
