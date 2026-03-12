@@ -4,17 +4,6 @@
 🚀 Foco em **PHP, Node.js e JavaScript**  
 📱 Estudando **desenvolvimento mobile**  
 
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=spirandeli&theme=default"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spirandeli&layout=compact&langs_count=8&theme=gruvbox"/>
-
-</div>
 
 ---
 
