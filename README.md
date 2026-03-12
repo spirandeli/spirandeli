@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=spirandeli&theme=default&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=spirandeli&theme=default"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spirandeli&layout=compact&langs_count=8&theme=gruvbox"/>
 
